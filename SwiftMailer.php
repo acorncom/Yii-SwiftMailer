@@ -4,7 +4,7 @@
  *
  * @author Sergii 'b3atb0x' hello@webkadabra.com
  */
-class SwiftMailer extends CComponent
+class SwiftMailer extends CApplicationComponent
 {
 
 	/**
